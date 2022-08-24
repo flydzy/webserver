@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Aug 23 12:54:22 2022
+# Make data base, printed on Wed Aug 24 05:49:45 2022
 
 # Variables
 
@@ -51,7 +51,7 @@ GITHUB_GRAPHQL_URL = https://api.github.com/graphql
 # environment
 RUBY_HOME = /opt/ruby/lts
 # environment
-GITHUB_TOKEN = ghu_yPtXAEiHbgagZ4oUwQfF8zbjey6Ztj2DnUZO
+GITHUB_TOKEN = ghu_F5AmqTCw2qzJ55TbvmM338dpCBRZdX3aF6hN
 # makefile
 MAKEFILE_LIST := 
 # environment
@@ -99,7 +99,7 @@ NUGET_XMLDOC_MODE = skip
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-0995c8f5-52db-430f-ba5a-2adbe125984e.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-4ae8bbcb-f754-44d8-b785-2c519122e39f.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -181,7 +181,7 @@ JAVA_HOME = /opt/java/lts
 # default
 MAKE_VERSION := 4.2.1
 # environment
-GITHUB_CODESPACE_TOKEN = ASQOK6IXZMZEGWTT4AGF6XLDAVU4DANCNFSM4ABZVT4A
+GITHUB_CODESPACE_TOKEN = ASQOK6NCQOWJ4UBUY3FUFQ3DAZSJNANCNFSM4ABZVT4A
 # environment
 USER = codespace
 # environment
@@ -277,7 +277,6 @@ NVM_RC_VERSION =
 
 # Pattern-specific Variable Values
 
- 
 # No pattern-specific variable values.
 
 # Directories
@@ -286,6 +285,7 @@ NVM_RC_VERSION =
 
 # 16 files, no impossibilities in 1 directories.
 
+ 
 # Implicit Rules
 
 # No implicit rules.
@@ -340,6 +340,6 @@ GNUmakefile:
 # strcache performance: lookups = 27 / hit rate = 11%
 # hash-table stats:
 # Load=24/8192=0%, Rehash=0, Collisions=1/27=4%
-# Finished Make data base on Tue Aug 23 12:54:22 2022
+# Finished Make data base on Wed Aug 24 05:49:45 2022
 
  
